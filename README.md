@@ -33,7 +33,7 @@
 `python test_rgb_realnoise.py`
 
 ### 3. Test Real Fluorescence Microscopy Images
-`python test_cell.py.py`
+`python test_cell.py`
 Optional
 - `--image-types` : choices=['fmd_test_mix', 'our_data'], default='fmd_test_mix'
 - `--out-dir` : output folder
